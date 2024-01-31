@@ -1,6 +1,9 @@
 # GIFT-SHOP :tada::white_flower::cherry_blossom::candy:
 
-**[Переглянути живу сторінку](https://gift-studio.vercel.app/)**
+**Переглянути живу сторінку:**
+
+- [1 варіант](https://gift-studio.com.ua)
+- [2 варіант](https://gift-studio-phi.vercel.app/)
 
 ---
 
