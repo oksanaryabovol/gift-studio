@@ -15,6 +15,7 @@ const SocialLink: FC<SocialLinkProps> = ({
   ariaLabel,
 }) => {
   const link = content.socialLink;
+
   const instagramLink = link.concat(username);
 
   return (
