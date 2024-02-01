@@ -57,7 +57,7 @@
 
 Для управління вмістом та конфігурацією вашого додатка Next.js, перегляньте
 додаткову документацію з
-[Sanity Studio](https://docs.google.com/document/d/14rdHNc4vb7Z7vKZZglbxdZAlBCxMK1AByJ6xttbFOlI/edit?usp=sharing).
+[Sanity Studio](https://docs.google.com/document/d/1PB1Si0iBkT7BWSRPdfcyrVB0m82IpyFVWKE0ehIH_LI/edit?usp=sharing).
 
 ---
 
